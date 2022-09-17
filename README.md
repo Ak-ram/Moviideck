@@ -1,10 +1,16 @@
-# react-movie
+# Moviideck
 
     Responsive React Movies App With API
 
-# Video tutorial
+## Features
 
-    https://youtu.be/ntYXj9W1Ez8
+### 1. Pull Screen Slider
+
+### 2. Searching
+
+### 3. Beautiful UI
+
+### 4. Responsive Layout
 
 # Resource
 
