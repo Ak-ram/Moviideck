@@ -8,13 +8,13 @@
 
 ### 1. Pull Screen Sliding 
 
-<div align='center'>
- <img height='300px' width = "80%" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
+<div >
+ <img height='359px' width = "897px" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
 </div>
 
 ### 2. Search ability
-<div align='center'>
-<img  height='300px' width = "80%" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
+<div>
+<img   height='359px' width = "897px" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
 </div>
 
 
@@ -23,6 +23,9 @@
 ### 4. Youtube video player
 ### 5. Friendly User Interface
 
+<div>
+<img   height='359px' width = "897px" src="https://user-images.githubusercontent.com/69124951/190877753-5a8a2498-2d8d-4487-9eaa-bfbb32e78539.jpeg"/>
+</div>
 
 # Installation
 
