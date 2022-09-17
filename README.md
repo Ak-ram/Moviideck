@@ -5,22 +5,21 @@
 
 
 # Features
-
-### 1. Pull Screen Sliding 
+### 1. Responsive Layout
+### 2. Youtube video player
+### 3. Pull Screen Sliding 
 
 <div >
  <img height='359px' width = "897px" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
 </div>
 
-### 2. Search ability
+### 4. Search ability
 <div>
 <img   height='359px' width = "897px" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
 </div>
 
 
 
-### 3. Responsive Layout
-### 4. Youtube video player
 ### 5. Friendly User Interface
 
 <div>
