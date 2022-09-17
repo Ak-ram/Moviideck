@@ -8,14 +8,13 @@
 
 ### 1. Pull Screen Sliding 
 
+ <img height='300px' width = "100%" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
 
 ### 2. Search ability
 
-<div align='center'>
- <img height='250px' width = "400px" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
-<img  height='250px' width = "400px" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
-   
- </div>
+<img  height='300px' width = "100%" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
+
+
 
 
 ### 3. Responsive Layout
