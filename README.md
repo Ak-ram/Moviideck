@@ -8,12 +8,14 @@
 
 ### 1. Pull Screen Sliding 
 
+<div align='center'>
  <img height='300px' width = "80%" src="https://user-images.githubusercontent.com/69124951/190877307-9c96ff1e-5d7e-41af-bd1f-51dfcf6cabaf.gif"/>
+</div>
 
 ### 2. Search ability
-
+<div align='center'>
 <img  height='300px' width = "80%" src="https://user-images.githubusercontent.com/69124951/190877497-a504221b-132e-43d6-9167-945eaaf36545.gif"/>
-
+</div>
 
 
 
