@@ -1,20 +1,3 @@
-# Moviideck
-
-    Responsive React Movies App With API
-
-## Features
-
-### 1. Pull Screen Slider
-
-### 2. Searching
-
-### 3. Beautiful UI
-
-![Web capture_17-9-2022_19728_react-move-web-app web app-modified](https://user-images.githubusercontent.com/69124951/190869296-afef74e7-1100-4521-a54d-5ac24a6e3375.png)
-
-
-
-### 4. Responsive Layout
 
 # Resource
 
